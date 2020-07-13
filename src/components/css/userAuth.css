@@ -1,0 +1,49 @@
+.loginPath {
+  /* border: solid 1px red; */
+  color: #ffffff;
+  font-size: 12px;
+  font-family: "Segoe UI";
+  /* margin-right: 1px; */
+  position: relative;
+  left: 80%;
+  width: auto;
+  height: auto;
+}
+.loginPathtxt {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: "Segoe UI";
+  position: relative;
+  width: auto;
+  height: auto;
+  /* left: 74%;   */
+}
+#divide {
+  color: #ffffff;
+  position: relative;
+  left: 80%;
+  width: auto;
+  height: auto;
+  margin-left: 2px;
+  margin-right: 1px;
+}
+.signupPath {
+  /* border: solid 1px red; */
+  color: #ffffff;
+  font-size: 12px;
+  font-family: "Segoe UI";
+  margin-left: 3px;
+  position: relative;
+  left: 80%;
+  width: auto;
+  height: auto;
+}
+.signupPathtxt {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: "Segoe UI";
+  position: relative;
+  width: auto;
+  height: auto;
+  /* left: 74%;   */
+}

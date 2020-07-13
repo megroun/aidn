@@ -1,0 +1,18 @@
+.appointmentBtn {
+  background: #66b5f9;
+  /* opacity: 60%; */
+  font-size: 13px;
+  font-family: "Segoe UI";
+  border: none;
+  outline: none;
+  color: #505050;
+  /* color: #d1cdcd; */
+}
+.appointmentBtn :hover {
+  color: black;
+}
+.btn-link:hover {
+  text-decoration: none;
+  color: black;
+  outline: none;
+}

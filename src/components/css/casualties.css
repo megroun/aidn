@@ -1,0 +1,51 @@
+.casualties_data {
+  width: 10%;
+  height: 135px;
+  /* border: solid 1px red; */
+  border-radius: 50%;
+  background-color: #6e98f9;
+  opacity: 58%;
+  position: relative;
+  top: 25px;
+  left: 5%;
+  display: inline-flex;
+  margin-right: 10%;
+}
+.casualties_data_img {
+  width: 73%;
+  height: 95px;
+  position: relative;
+  left: 17px;
+  top: 16px;
+}
+#casualties_data_heart {
+  padding-top: 12px;
+}
+.concernsTagline {
+  font-family: "Segoe UI";
+  font-size: 30px;
+  text-align: center;
+  padding-top: 30px;
+  color: #7777778c;
+}
+.img_tagline {
+  height: 28px;
+  /* border: solid; */
+  position: relative;
+  top: 103%;
+  right: 43%;
+  text-align: center;
+}
+#ChildHealth {
+  /* border: solid 1px; */
+  right: 70%;
+}
+#ortho {
+  right: 51%;
+}
+#neuro {
+  right: 51%;
+}
+#respiratory {
+  right: 62%;
+}

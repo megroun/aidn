@@ -1,0 +1,21 @@
+.locationFetcher {
+  border-right: solid 1px #70707057;
+  background-color: #ffffff;
+  height: 32px;
+  border-bottom-left-radius: 16px;
+  border-top-left-radius: 16px;
+  display: inline-flex;
+  margin-left: 311px;
+  margin-top: 50px;
+}
+/* #locfetcher {
+  margin-top: -20px;
+} */
+.locationFetcherTxt {
+  display: inline-flex;
+  border: none;
+  outline: none;
+  font-size: 13px;
+  font-family: "Segoe UI";
+  width: 100%;
+}

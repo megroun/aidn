@@ -1,0 +1,18 @@
+.searchBar {
+  /* border: solid 1px red; */
+  background-color: #ffffff;
+  height: 32px;
+  border-bottom-right-radius: 16px;
+  border-top-right-radius: 16px;
+  display: inline-flex;
+  position: relative;
+  bottom: 1px;
+}
+.searchBarTxt {
+  display: inline-flex;
+  border: none;
+  outline: none;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+.homeNavbar {
+  /* width: 1920;
+  height: 106; */
+  background-color: #66b5f9;
+  opacity: 70%;
+  /* box-shadow: 0 8px 6px -6px black; */
+}
+#brandName {
+  color: #ffffff;
+  /* border: solid 1px #ffffff; */
+  font-family: "Segoe UI";
+  font-weight: bold;
+  font-size: 28px;
+  margin-left: 10px;
+}
